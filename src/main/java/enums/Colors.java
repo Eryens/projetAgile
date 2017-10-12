@@ -8,6 +8,5 @@ public enum Colors {
     green,
     yellow,
     purple,
-    pink,
-    test
+    pink
 }
